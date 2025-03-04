@@ -21,7 +21,7 @@ This project aims to answer th following questions
 
 ### Data source
 
-Sales Data: The primary dataset used for the this analysis is the "Call Center.csv" containing sales information made by the company.
+Call center Data: The primary dataset used for the this analysis is the "Call Center.csv" containing call information made by the service provider.
 
 ### Tools
 
